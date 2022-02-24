@@ -1,0 +1,18 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+numpy>=1.17.0
+astropy>=4.0
+ads>=0.12
+synphot>=1.0exit
+matplotlib>=3.0
+astroquery>=0.4.2.dev6218
+
+
+# PackagesNotFoundError: The following packages are not available from current channels:
+
+#   - pyradex==0.2.2
+#   - pytest_astropy_header==0.2.0
+#   - sphinx_astropy==1.7.0
+#   - mskpy
